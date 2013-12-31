@@ -1,5 +1,9 @@
 package com.qris.test;
 
+/*
+ * Add someidea to this source
+ */
+
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
